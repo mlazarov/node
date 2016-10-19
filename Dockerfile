@@ -1,3 +1,3 @@
-FROM node:4.4.1
+FROM node:4.6.1
 
 RUN npm install -g yarn
