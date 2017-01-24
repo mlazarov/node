@@ -1,3 +1,3 @@
-FROM node:6.9.1
+FROM node:6
 
 RUN npm install -g yarn gulp
