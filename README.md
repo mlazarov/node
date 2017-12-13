@@ -10,3 +10,4 @@ The image is based on the official Node.js docker image with some additions:
  * 4.6.1
  * 6.9.1
  * 8.3.0
+ * 8.9.3
